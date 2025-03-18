@@ -1,1 +1,7 @@
-meowing.css
+*.jpg
+*.jpeg
+*.png
+*.gif
+index/img/
+/vscode/intellisense-and-emmet.html
+test.js

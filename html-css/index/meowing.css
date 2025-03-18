@@ -1,0 +1,11 @@
+.title {color: purple;}
+.p {color: hotpink;}
+.list {color: mediumvioletred;}
+body {background-color:black;}
+
+.box { 
+  width: 300px;
+  height: 300px;
+  margin: auto;
+}
+.white {background-color: white;}
