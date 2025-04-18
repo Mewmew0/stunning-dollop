@@ -10,10 +10,11 @@ input.searche {
   border: 0;
 }
 
-input.searche::placeholder {
+input.searche ::placeholder {
   font-size: 14px;
   color: gray;
-  background-image: url(/bootstraplinkedinclone/assets/search-solid.svg);
+  background-position: 5%;
+  background-image: url(../assets/search-solid.svg);
   background-repeat: no-repeat;
   background-size: 7%;
 }
@@ -65,7 +66,7 @@ input.content::placeholder {
   font-weight: bolder;
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url(/bootstraplinkedinclone/assets/edit-regular.svg);
+  background-image: url(../assets/edit-regular.svg);
   background-repeat: no-repeat;
   background-size: auto;
 }
