@@ -25,3 +25,5 @@ buton.addEventListener("click", function () {
 
 liste.classList.add("sınıf");
 liste.classList.toggle("sınıf");
+
+
