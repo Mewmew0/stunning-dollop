@@ -1,0 +1,28 @@
+.title {
+  color: purple;
+  width: 150px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 50px;
+}
+.p {
+  color: hotpink;
+  margin: 0 auto;
+  text-align: center;
+  width: 350px;
+}
+.list {
+  color: mediumvioletred;
+  width: 150px;
+  margin: 0 auto;
+  padding: 0 0 0 0;  
+  text-align: center;
+  list-style-position: inside;
+  font-size: 18px;
+
+}
+body {
+  background-color: black;
+}
+.white {
+  background-color: white;}
